@@ -24,14 +24,14 @@ In this lab, you will:
     <https://github.com/skills/introduction-to-github>
 
 > In this lab you will create the repository using a public template
-> “**skills-introduction-to-github**”.
->
-> ![](./media/image1.png)
+  “**skills-introduction-to-github**”.
+
+  ![](./media/image1.png)
 
 
 3.  Select **Create a new repository** under **Use this template** menu.
 
-> ![](./media/image2.png)
+  ![](./media/image2.png)
 
 
 4.  Enter the following details and select **Create Repository**.
@@ -40,12 +40,12 @@ In this lab, you will:
 
 - Repository type: **Public**
 
-> ![](./media/image3.png)
+  ![](./media/image3.png)
 
 
 5.  Navigate to the **Code** tab in the header menu of your repository.
 
-> ![](./media/image4.png)
+    ![](./media/image4.png)
 
 6.  Click on the main branch drop-down.
 
@@ -54,14 +54,14 @@ In this lab, you will:
 
 > **my-first-branch** from main”
 >
-> ![](./media/image5.png)
+    ![](./media/image7.png)
 
 
 8.  The branch will automatically switch to the one you have just
     created. The main branch drop-down bar will reflect your new branch
     and display the new branch name.
 
-> ![](./media/image6.png)
+    ![](./media/image8.png)
 
 
 Summary:
