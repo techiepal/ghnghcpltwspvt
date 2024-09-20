@@ -1,5 +1,4 @@
-**Lab 07- Create a Notebook using Github Copilot chat and provide
-answers based on Test data**
+# Lab 07- Create a Notebook using Github Copilot chat and provide answers based on Test data
 
 **INTRODUCTION**
 
