@@ -26,7 +26,7 @@ In this lab, you will:
 > In this lab you will create the repository using a public template
   “**skills-introduction-to-github**”.
 
-  ![](./media/image1.png)
+  ![](./media 01/image1.png)
 
 
 3.  Select **Create a new repository** under **Use this template** menu.
