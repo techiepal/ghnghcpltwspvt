@@ -4,13 +4,13 @@ Welcome to the GitHub and GitHub Copilot workshop, designed to empower you with 
 
 This workshop covers:
 
-**Repository Management**: Learn how to create repositories, branches, and manage commit histories effectively.
+-  **Repository Management**: Learn how to create repositories, branches, and manage commit histories effectively.
 
-**Security Best Practices**: Explore how to secure your repository's supply chain using tools like CodeQL, secret scanning, and secure coding workflows.
+-  **Security Best Practices**: Explore how to secure your repository's supply chain using tools like CodeQL, secret scanning, and secure coding workflows.
 
-**AI-Assisted Development**: Utilize GitHub Copilot to build and enhance your code, including REST API development and data analysis.
+-  **AI-Assisted Development**: Utilize GitHub Copilot to build and enhance your code, including REST API development and data analysis.
 
-**Real-World Scenarios**: Apply GitHub’s security features and Copilot’s AI assistance in practical, real-world development situations.
+-  **Real-World Scenarios**: Apply GitHub’s security features and Copilot’s AI assistance in practical, real-world development situations.
 
 By the end of this workshop, you will be well-equipped to manage repositories securely, harness the power of GitHub Copilot for enhanced productivity, and implement security best practices in your development workflows.
 
