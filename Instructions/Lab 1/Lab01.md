@@ -53,8 +53,7 @@ In this lab, you will:
     and select “Create branch
 
 > **my-first-branch** from main”
->
-    ![](./media/image7.png)
+![](./media/image7.png)
 
 
 8.  The branch will automatically switch to the one you have just
