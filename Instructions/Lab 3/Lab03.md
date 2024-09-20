@@ -1,6 +1,6 @@
-Lab 03: Enable CodeQL to secure your source code
+# Lab 03: Enable CodeQL to secure your source code
 
-Objective:
+## Objective:
 
 Imagine you're a software developer working on a critical project for
 your company, where ensuring the security of your application is a top
@@ -11,7 +11,7 @@ and insecure coding practices.
 In this hands-on lab, you will enable GitHub Code Scanning to
 automatically review your source code for potential security issues.
 
-# Exercise \#1: Create a new repository from a public template
+## Exercise \#1: Create a new repository from a public template
 
 1.  Sign in to your GitHub account.
 
@@ -38,7 +38,7 @@ automatically review your source code for potential security issues.
 <img src="./media/image3.png"
 style="width:3.81783in;height:3.27083in" />
 
-Exercise \#2: Enable code scanning with CodeQL
+## Exercise #2: Enable code scanning with CodeQL
 
 1.  On the landing page of the newly created repository navigate to the
     **Settings** tab.
@@ -77,7 +77,7 @@ style="width:5.11334in;height:3.01872in" />
 <img src="./media/image8.png"
 style="width:4.80557in;height:2.47741in" />
 
-Summary:
+## Summary:
 
 Now you have enabled GitHub Code Scanning to automatically review your
 source code for potential security issues.
