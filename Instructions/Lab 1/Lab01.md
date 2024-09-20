@@ -26,7 +26,7 @@ In this lab, you will:
 > In this lab you will create the repository using a public template
   “**skills-introduction-to-github**”.
 
-  ![](./media 01/image1.png)
+  ![](./media/image1.png)
 
 
 3.  Select **Create a new repository** under **Use this template** menu.
@@ -50,13 +50,12 @@ In this lab, you will:
 6.  Click on the main branch drop-down.
 
 7.  In the **Find a branch** field, enter the name **my-first-branch**
-    and select “Create branch
+    and select “Create branch **my-first-branch** from main”
 
-> **my-first-branch** from main”
-![](./media/image7.png)
+    ![](./media/image7.png)
 
 
-8.  The branch will automatically switch to the one you have just
+9.  The branch will automatically switch to the one you have just
     created. The main branch drop-down bar will reflect your new branch
     and display the new branch name.
 
