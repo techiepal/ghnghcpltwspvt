@@ -1,6 +1,6 @@
-Lab 01: Create a GitHub repository and a branch
+# Lab 01: Create a GitHub repository and a branch
 
-Objective:
+### Objective:
 
 Imagine you're new to software development and have joined a team that
 uses GitHub for version control and collaboration. To effectively
@@ -62,7 +62,7 @@ In this lab, you will:
     ![](./media/image8.png)
 
 
-Summary:
+### Summary:
 
 In this lab, you have
 
