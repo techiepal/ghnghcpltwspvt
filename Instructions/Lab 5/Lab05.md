@@ -1,4 +1,4 @@
-Lab 05: Enable secret scanning in a GitHub repository and commit a token
+# Lab 05: Enable secret scanning in a GitHub repository and commit a token
 
 Imagine you're a software developer working on a team project with a
 shared GitHub repository. To ensure your code remains secure and free of
@@ -6,7 +6,7 @@ accidental leaks, you decide to implement secret scanning—a feature that
 helps identify sensitive information like API tokens or passwords that
 might be inadvertently committed to the repository.
 
-Objective:
+## Objective:
 
 In this hands-on lab, you will:
 
@@ -19,7 +19,7 @@ In this hands-on lab, you will:
 
 ### Exercise \#1: Create a GitHub repository and enable secret scanning
 
-### Task \#1: Create a repository using a template 
+## Task \#1: Create a repository using a template 
 
 1.  Sign in to your GitHub account.
 
@@ -46,7 +46,7 @@ In this hands-on lab, you will:
 > <img src="./media/image3.png"
 > style="width:4.37313in;height:4.02986in" />
 
-### Task \#2: Enable secret scanning 
+## Task \#2: Enable secret scanning 
 
 1.  On the landing page of the newly created repository, select
     **Settings** from the top navigation bar.
@@ -83,7 +83,7 @@ style="width:4.76312in;height:3.23001in" />
 > Now that secret scanning is enabled in this repository, let's commit a
 > new token to see how it works.
 
-### Exercise \#2: Commit a token
+## Exercise \#2: Commit a token
 
 In this exercise, you'll commit an AWS key and access ID to the
 repository. This is an inactive token that can't be used to log in to
@@ -126,7 +126,7 @@ style="width:5.74039in;height:2.73125in" />
 > <img src="./media/image12.png" style="width:2.44936in;height:1.03791in"
 > alt="A screenshot of a computer Description automatically generated" />
 
-Summary:
+## Summary:
 
 Now you have gained a practical understanding of how to enable and test
 secret scanning to protect your code and data.
