@@ -1,6 +1,6 @@
-Lab 04: Remove Commit History from a Git Repository
+# Lab 04: Remove Commit History from a Git Repository
 
-Objective:
+## Objective:
 
 Imagine you are part of a development team working on a project where
 sensitive information, such as API keys or database credentials, was
@@ -17,7 +17,7 @@ In this lab, you will:
 - Push Changes to GitHub: Upload the updated repository to GitHub to
   reflect the changes.
 
-### Exercise \#1: Create the repository with the accidental commit history (sensitive data)
+## Exercise \#1: Create the repository with the accidental commit history (sensitive data)
 
 1.  Sign in to your GitHub account.
 
@@ -43,7 +43,7 @@ In this lab, you will:
 <img src="./media/image3.png"
 style="width:5.31474in;height:3.07869in" />
 
-### Exercise \# 2: Remove/delete the file (.env in the project root directory) containing sensitive data
+## Exercise \# 2: Remove/delete the file (.env in the project root directory) containing sensitive data
 
 1.  On the landing page of the cloned repository, navigate to
     **Code**\>**Local**\>**HTTPS** and copy the URL.
@@ -104,7 +104,7 @@ style="width:6.49722in;height:3.04306in" />
 > <img src="./media/image9.png" style="width:6.5in;height:4.39931in"
 > alt="A screen shot of a computer program Description automatically generated" />
 
-Summary:
+## Summary:
 
 Now you have completed cleaning up your Git repository, ensuring that
 sensitive content is not exposed in the repository’s history.
