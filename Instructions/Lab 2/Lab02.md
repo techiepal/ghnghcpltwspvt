@@ -1,6 +1,6 @@
-Lab 02: Secure your repository's supply chain
+# Lab 02: Secure your repository's supply chain
 
-Objectives:
+### Objectives:
 
 Imagine you are responsible for maintaining the security of a software
 project that relies on various third-party dependencies. To ensure the
@@ -24,7 +24,7 @@ In this hands-on lab, you will:
 - Review Dependency Graph: Use the dependency graph to review and
   confirm that the new dependency is correctly reflected and monitored.
 
-# Exercise 01: Create a new repository
+### Exercise 01: Create a new repository
 
 1.  Browse to the following link:
     <https://github.com/skills/secure-repository-supply-chain>
@@ -133,7 +133,7 @@ alt="A screenshot of a computer Description automatically generated" />
 > <img src="./media/image16.png"
 > style="width:5.46094in;height:2.74447in" />
 
-Summary:
+### Summary:
 
 > You have now gained valuable insights into managing your project's
 > dependencies and securing your repository's supply chain, allowing you
