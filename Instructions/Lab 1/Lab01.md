@@ -26,13 +26,13 @@ In this lab, you will:
 > In this lab you will create the repository using a public template
 > “**skills-introduction-to-github**”.
 >
-> <img src="./media/image1.png"
-> style="width:5.50816in;height:3.19625in" />
+> ![](./media/image1.png)
+
 
 3.  Select **Create a new repository** under **Use this template** menu.
 
-> <img src="./media/image2.png" style="width:2.93056in;height:3.93611in"
-> alt="A screenshot of a computer Description automatically generated" />
+> ![](./media/image2.png)
+
 
 4.  Enter the following details and select **Create Repository**.
 
@@ -40,12 +40,12 @@ In this lab, you will:
 
 - Repository type: **Public**
 
-> <img src="./media/image3.png"
-> style="width:4.17589in;height:4.18542in" />
+> ![](./media/image3.png)
+
 
 5.  Navigate to the **Code** tab in the header menu of your repository.
 
-> <img src="./media/image4.png" style="width:5.6483in;height:3.05025in" />
+> ![](./media/image4.png)
 
 6.  Click on the main branch drop-down.
 
@@ -54,15 +54,15 @@ In this lab, you will:
 
 > **my-first-branch** from main”
 >
-> <img src="./media/image7.png" style="width:3.88878in;height:3.13904in"
-> alt="create-branch-button" />
+> ![](./media/image5.png)
+
 
 8.  The branch will automatically switch to the one you have just
     created. The main branch drop-down bar will reflect your new branch
     and display the new branch name.
 
-> <img src="./media/image8.png"
-> style="width:6.26736in;height:3.76458in" />
+> ![](./media/image6.png)
+
 
 Summary:
 
