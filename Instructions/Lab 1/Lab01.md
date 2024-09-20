@@ -1,6 +1,6 @@
-Lab 01: Create a GitHub repository and a branch
+# Lab 01: Create a GitHub repository and a branch
 
-Objective:
+## Objective:
 
 Imagine you're new to software development and have joined a team that
 uses GitHub for version control and collaboration. To effectively
@@ -16,7 +16,7 @@ In this lab, you will:
   explore parallel development and how branches facilitate independent
   work.
 
-### Exercise \#1: Create a repository from a template and a branch within the repository
+## Exercise \#1: Create a repository from a template and a branch within the repository
 
 1.  Sign in to your GitHub account.
 
@@ -50,9 +50,7 @@ In this lab, you will:
 6.  Click on the main branch drop-down.
 
 7.  In the **Find a branch** field, enter the name **my-first-branch**
-    and select “Create branch
-
-> **my-first-branch** from main”
+    and select “Create branch **my-first-branch** from main”
 >
 > <img src="./media/image7.png" style="width:3.88878in;height:3.13904in"
 > alt="create-branch-button" />
@@ -64,7 +62,7 @@ In this lab, you will:
 > <img src="./media/image8.png"
 > style="width:6.26736in;height:3.76458in" />
 
-Summary:
+## Summary:
 
 In this lab, you have
 
