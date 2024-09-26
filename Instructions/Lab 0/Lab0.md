@@ -1,8 +1,8 @@
-Lab 0: Preparing for the lab execution
+# Lab 0: Preparing for the lab execution
 
-Task 1: Signup for a GitHub account
+## Task 1: Signup for a GitHub account
 
-Note: You can skip Task 1 and start with task 2 if you already created a
+**Note**: You can skip Task 1 and start with task 2 if you already created a
 GitHub account.
 
 1.  Open a new browser tab and navigate to +++<https://github.com/>+++
@@ -53,7 +53,7 @@ GitHub account.
 
 8.  You have successfully signed for a GitHub account.
 
-Task 2: Signup for GitHub Copilot (trial) license
+## Task 2: Signup for GitHub Copilot (trial) license
 
 **If you still do not have an active Copilot license, a 30 day trial can
 be requested with below steps . Make sure to cancel your license before
@@ -82,7 +82,7 @@ alt="Screenshot" />
 IMPORTANT: Make sure to deactivate the account after you complete the
 labs to avoid billing for usage.
 
-Task 3: Install required extensions in Visual Studio code
+## Task 3: Install required extensions in Visual Studio code
 
 1.  Open Visual Studio Code from the Windows Start menu .Click on
     **Accounts -\> Backup and Sync Settings** and select **Sign in.**
