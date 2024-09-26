@@ -15,8 +15,8 @@ GitHub account.
 3.  Enter your email, password and a unique username and click on
     continue.
 
-> <img src="./media/image2.png" style="width:6.5in;height:3.09167in"
-> alt="A screenshot of a computer Description automatically generated" />
+    <img src="./media/image2.png" style="width:6.5in;height:3.09167in"
+    alt="A screenshot of a computer Description automatically generated" />
 
 4.  On the next screen verify your account (solve the puzzle) and click
     Submit.
